@@ -1,0 +1,14 @@
+.navbar{
+    display:flex;
+    justify-content: space-between;
+}
+.image-left{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.image-right{
+    margin-right: 50px;
+    margin-top:25px;
+    height: 15px;
+    width: 25px;
+}

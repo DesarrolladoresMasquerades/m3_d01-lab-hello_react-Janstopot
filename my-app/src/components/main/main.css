@@ -1,0 +1,35 @@
+.main{
+    display:flex;
+    flex-direction: column;
+    margin-left:50px;
+    height: 475px;
+    
+}
+
+h1{
+    text-align: left;
+    width: 600px;
+    font-size:500%;
+    color:white;
+    display: flex;
+    margin-bottom:0px;
+}
+
+p{
+    text-align: left;
+    width: 400px;
+    color:white;
+    display:flex;
+}
+
+button{
+    font-weight: bold;
+    color: #282c34;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:110px;
+    height: 50px;
+    display:flex;
+    border-radius: 5px;
+}
